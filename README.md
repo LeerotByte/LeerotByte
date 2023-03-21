@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="justify">
+    <p align="center">
+<image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=400&height=45&lines=I'm+Leerot+a+FrontEnd+Developer.">
+    </p
+</div>
+
 
 <!--
 **LeerotByte/LeerotByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
