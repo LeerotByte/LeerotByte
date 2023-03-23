@@ -1,6 +1,6 @@
 <div align="justify">
     <p align="center">
-<image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Robert%2C+a+FrontEnd+developer+;Mys+main+lang+are+Js+and+C%23">
+<image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Robert%2C+a+FrontEnd+developer+;My+main+lang+are+Js+and+C%23">
     <image src="https://github.com/LeerotByte/LeerotByte/blob/main/git/myrom.gif">
     </p
 </div>
