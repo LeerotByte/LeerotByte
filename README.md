@@ -1,7 +1,7 @@
 <div align="justify">
     <p align="center">
-<image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=400&height=45&lines=I'm+Leerot+a+FrontEnd+Developer.">
-    <image src="https://github.com/LeerotByte/LeerotByte/blob/main/git/e9ef7a90f739e742038cc65e6a87dc91%20-%20copia.gif">
+<image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Robert%2C+a+FrontEnd+developer+;Mys+main+lang+are+Js+and+C%23">
+    <image src="https://github.com/LeerotByte/LeerotByte/blob/main/git/myrom.gif">
     </p
 </div>
 
